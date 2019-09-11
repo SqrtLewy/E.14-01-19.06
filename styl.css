@@ -1,0 +1,62 @@
+#strona{
+	margin: 0 auto;
+	padding: 0;
+}
+
+#baner{
+	background-color:#E8C84E;
+	text-align:center;
+	height: 50px;
+	width: 100%;
+	font-size: 130%;
+}
+
+#blok_lewy{
+	background-color:#FFB544;
+	height:500px;
+	width:40%;
+	font-size:130%;
+	float:left;
+}
+
+#blok_srodkowy{
+	height:500px;
+	width:30%;
+	font-size:130%;
+	text-align: center;
+	float:left;
+}
+
+#blok_prawy{
+	background-color:#FFB544;
+	height:500px;
+	width:30%;
+	font-size:130%;
+	text-align:center;
+	float:left;
+}
+
+#stopka{
+	background-color:#E8C84E;
+	height:50px;
+	text-align:right;
+	padding:10px;
+	clear:both;
+}
+
+ul{
+	padding-top:30px;
+	background-color:#FFAA00;
+}
+
+h3{
+	padding-top:50px;
+}
+
+img{
+	padding-top:50px;
+}
+
+form{
+	margin-bottom:100px;
+}

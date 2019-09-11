@@ -1,0 +1,4 @@
+SELECT nazwa FROM towary WHERE promocja=1
+SELECT cena FROM towary WHERE nazwa="cienkopis"
+SELECT nazwa FROM dostawcy
+ALTER TABLE dostawcy ADD email VARCHAR(100)
